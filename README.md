@@ -14,6 +14,6 @@
   
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=screw-hand&rank=SECRET&column=-1&column=-1&margin-w=40&margin-h=14&theme=radical" /> 
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=screw-hand&rank=SECRET&column=-1&column=-1&margin-w=40&margin-h=15&theme=radical" /> 
   </a>
 </p>
