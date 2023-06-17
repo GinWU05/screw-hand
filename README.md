@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=screw-hand&column=-1&margin-w=25&margin-h=15" />
+    <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=screw-hand&column=-1&margin-w=25&margin-h=15&rank=-UNKNOWN,-C" />
   </a>
 </p>
 
