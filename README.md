@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/screw-hand/github-profile-trophy">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=screw-hand&column=-1&margin-w=25&margin-h=15&rank=-UNKNOWN,-C" />
   </a>
 </p>
@@ -13,7 +13,7 @@
 -----
   
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/screw-hand/github-profile-trophy">
     <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=screw-hand&rank=SECRET&wantAll=true&column=-1&column=-1&margin-w=40&margin-h=14&theme=radical" /> 
   </a>
 </p>
